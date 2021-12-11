@@ -6,6 +6,5 @@
 => php artisan make:auth
 => php artisan ui vui --auth
 => php artisan make:controller
-=> prova
 
  
