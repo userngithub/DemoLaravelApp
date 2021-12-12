@@ -1,4 +1,4 @@
-# DemoLaravelApp - Important Command 
+# Important Command 
 
 => composer create-project --prefer-dist lavarel/lavarel project_name \
 => composer require laravel/jetstream \
